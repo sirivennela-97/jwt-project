@@ -1,0 +1,51 @@
+.App {
+  background-image: url("https://image.invaluable.com/housePhotos/Rosebery/06/683806/H0900-L225745920.jpg");
+  height: 100vh;
+  background-repeat: repeat;
+  color: white;
+}
+.headerfirstimg {
+  position: relative;
+  top: 20px;
+  right: 20px;
+}
+.maindiv {
+  display: flex;
+}
+.header {
+  font-size: 80px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.img2 {
+  position: relative;
+  top: 25px;
+}
+button {
+  height: 45px;
+  width: 120px;
+  border-radius: 7px;
+  font-size: 16px;
+}
+.countdowntimer {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  column-gap: 0px;
+  width: 300px;
+  padding-top: 40px;
+  padding-bottom: 80px;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  margin: 0px;
+}
+.contentdiv {
+  position: relative;
+  top: 80px;
+}
+.imgs {
+  width: 80p;
+  height: 80px;
+  position: relative;
+  top: 15px;
+}
